@@ -1,0 +1,14 @@
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\bin\Debug\net8.0\MainConsoleApp.exe
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\bin\Debug\net8.0\MainConsoleApp.deps.json
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\bin\Debug\net8.0\MainConsoleApp.runtimeconfig.json
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\bin\Debug\net8.0\MainConsoleApp.dll
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\bin\Debug\net8.0\MainConsoleApp.pdb
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.AssemblyInfo.cs
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.dll
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\refint\MainConsoleApp.dll
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.pdb
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\MainConsoleApp.genruntimeconfig.cache
+C:\Users\ravan\source\repos\MainConsoleApp\MainConsoleApp\obj\Debug\net8.0\ref\MainConsoleApp.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravan\\source\\repos\\MainConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB993C-BEC1-45CB-A63B-72574EE3DA7C}|MainConsoleApp\\MainConsoleApp.csproj|c:\\users\\ravan\\source\\repos\\mainconsoleapp\\mainconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB993C-BEC1-45CB-A63B-72574EE3DA7C}|MainConsoleApp\\MainConsoleApp.csproj|solutionrelative:mainconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\MainConsoleApp\\MainConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\MainConsoleApp\\MainConsoleApp\\Program.cs",
+              "RelativeToolTip": "MainConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:12:28.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

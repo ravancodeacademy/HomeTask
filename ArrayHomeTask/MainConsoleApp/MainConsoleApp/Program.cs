@@ -81,7 +81,6 @@ foreach(int i in numbers)
 }
 #endregion*/
 
-
 /*#region Task 4
 int[] numbers = [1, 2, 3, 4];
 int count = 0;
@@ -92,19 +91,21 @@ foreach (int number in numbers)
 Console.WriteLine(count);
 #endregion*/
 
-
 /*#region Task 5
 int[] numbers = [1, 2, 3, 4];
-int givenNumber = 0;
+int givenNumber = 3;
 bool numberExists = false;
 foreach (int number in numbers)
 {
-    if (number == givenNumber) numberExists = true;
+    if (number == givenNumber) {
+        numberExists = true;
+        break;
+    };
 }
 Console.WriteLine("Number exists: " + numberExists);
 #endregion*/
 
-/*#region Task 5
+/*#region Task 6
 int[] numbers = [1, 2, 3, 4];
 int givenNumber = 2;
 int occurCount = 0;

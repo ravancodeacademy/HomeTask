@@ -1,0 +1,14 @@
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\bin\Debug\net8.0\ArrayResizer.exe
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\bin\Debug\net8.0\ArrayResizer.deps.json
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\bin\Debug\net8.0\ArrayResizer.runtimeconfig.json
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\bin\Debug\net8.0\ArrayResizer.dll
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\bin\Debug\net8.0\ArrayResizer.pdb
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.AssemblyInfo.cs
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.dll
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\refint\ArrayResizer.dll
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.pdb
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ArrayResizer.genruntimeconfig.cache
+C:\Users\ravan\source\repos\ArrayResizer\ArrayResizer\obj\Debug\net8.0\ref\ArrayResizer.dll

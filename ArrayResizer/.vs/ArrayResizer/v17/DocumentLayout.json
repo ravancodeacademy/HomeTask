@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravan\\source\\repos\\ArrayResizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06098B-19E1-43C8-82D6-25C73A250C0A}|ArrayResizer\\ArrayResizer.csproj|c:\\users\\ravan\\source\\repos\\arrayresizer\\arrayresizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06098B-19E1-43C8-82D6-25C73A250C0A}|ArrayResizer\\ArrayResizer.csproj|solutionrelative:arrayresizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\ArrayResizer\\ArrayResizer\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayResizer\\Program.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\ArrayResizer\\ArrayResizer\\Program.cs",
+              "RelativeToolTip": "ArrayResizer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:44:14.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

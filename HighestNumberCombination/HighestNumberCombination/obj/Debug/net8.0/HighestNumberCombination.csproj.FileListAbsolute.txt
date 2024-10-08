@@ -1,0 +1,14 @@
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\bin\Debug\net8.0\HighestNumberCombination.exe
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\bin\Debug\net8.0\HighestNumberCombination.deps.json
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\bin\Debug\net8.0\HighestNumberCombination.runtimeconfig.json
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\bin\Debug\net8.0\HighestNumberCombination.dll
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\bin\Debug\net8.0\HighestNumberCombination.pdb
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.AssemblyInfo.cs
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.dll
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\refint\HighestNumberCombination.dll
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.pdb
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\HighestNumberCombination.genruntimeconfig.cache
+C:\Users\ravan\source\repos\HighestNumberCombination\HighestNumberCombination\obj\Debug\net8.0\ref\HighestNumberCombination.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravan\\source\\repos\\StringFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936B44C9-146F-4041-8892-EDB520D7CD19}|StringFinder\\StringFinder.csproj|c:\\users\\ravan\\source\\repos\\stringfinder\\stringfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B44C9-146F-4041-8892-EDB520D7CD19}|StringFinder\\StringFinder.csproj|solutionrelative:stringfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\StringFinder\\StringFinder\\Program.cs",
+              "RelativeDocumentMoniker": "StringFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\StringFinder\\StringFinder\\Program.cs",
+              "RelativeToolTip": "StringFinder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:51:20.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

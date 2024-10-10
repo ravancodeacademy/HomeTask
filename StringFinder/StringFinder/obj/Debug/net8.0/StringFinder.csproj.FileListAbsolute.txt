@@ -1,0 +1,14 @@
+C:\Users\ravan\source\repos\StringFinder\StringFinder\bin\Debug\net8.0\StringFinder.exe
+C:\Users\ravan\source\repos\StringFinder\StringFinder\bin\Debug\net8.0\StringFinder.deps.json
+C:\Users\ravan\source\repos\StringFinder\StringFinder\bin\Debug\net8.0\StringFinder.runtimeconfig.json
+C:\Users\ravan\source\repos\StringFinder\StringFinder\bin\Debug\net8.0\StringFinder.dll
+C:\Users\ravan\source\repos\StringFinder\StringFinder\bin\Debug\net8.0\StringFinder.pdb
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.AssemblyInfo.cs
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.dll
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\refint\StringFinder.dll
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.pdb
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\StringFinder.genruntimeconfig.cache
+C:\Users\ravan\source\repos\StringFinder\StringFinder\obj\Debug\net8.0\ref\StringFinder.dll

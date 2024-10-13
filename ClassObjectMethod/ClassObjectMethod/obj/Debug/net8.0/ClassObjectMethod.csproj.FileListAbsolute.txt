@@ -1,0 +1,14 @@
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\bin\Debug\net8.0\ClassObjectMethod.exe
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\bin\Debug\net8.0\ClassObjectMethod.deps.json
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\bin\Debug\net8.0\ClassObjectMethod.runtimeconfig.json
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\bin\Debug\net8.0\ClassObjectMethod.dll
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\bin\Debug\net8.0\ClassObjectMethod.pdb
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.AssemblyInfo.cs
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.dll
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\refint\ClassObjectMethod.dll
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.pdb
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ClassObjectMethod.genruntimeconfig.cache
+C:\Users\ravan\source\repos\ClassObjectMethod\ClassObjectMethod\obj\Debug\net8.0\ref\ClassObjectMethod.dll

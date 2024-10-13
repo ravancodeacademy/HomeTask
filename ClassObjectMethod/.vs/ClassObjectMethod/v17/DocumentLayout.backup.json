@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|c:\\users\\ravan\\source\\repos\\classobjectmethod\\classobjectmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|solutionrelative:classobjectmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|c:\\users\\ravan\\source\\repos\\classobjectmethod\\classobjectmethod\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|solutionrelative:classobjectmethod\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|c:\\users\\ravan\\source\\repos\\classobjectmethod\\classobjectmethod\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|solutionrelative:classobjectmethod\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|c:\\users\\ravan\\source\\repos\\classobjectmethod\\classobjectmethod\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|solutionrelative:classobjectmethod\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|c:\\users\\ravan\\source\\repos\\classobjectmethod\\classobjectmethod\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D26F03-BA85-403E-90DF-6A0673A52848}|ClassObjectMethod\\ClassObjectMethod.csproj|solutionrelative:classobjectmethod\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Bear.cs",
+              "RelativeDocumentMoniker": "ClassObjectMethod\\Bear.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Bear.cs",
+              "RelativeToolTip": "ClassObjectMethod\\Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:12:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Bird.cs",
+              "RelativeDocumentMoniker": "ClassObjectMethod\\Bird.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Bird.cs",
+              "RelativeToolTip": "ClassObjectMethod\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:13:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Dog.cs",
+              "RelativeDocumentMoniker": "ClassObjectMethod\\Dog.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Dog.cs",
+              "RelativeToolTip": "ClassObjectMethod\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:06:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Animal.cs",
+              "RelativeDocumentMoniker": "ClassObjectMethod\\Animal.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Animal.cs",
+              "RelativeToolTip": "ClassObjectMethod\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:58:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ClassObjectMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\ClassObjectMethod\\ClassObjectMethod\\Program.cs*",
+              "RelativeToolTip": "ClassObjectMethod\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:56:45.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

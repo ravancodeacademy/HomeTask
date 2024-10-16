@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D10A6-71B5-44C5-8DB6-E391077EDB54}|VehicleInheritance\\VehicleInheritance.csproj|c:\\users\\ravan\\source\\repos\\vehicleinheritance\\vehicleinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D10A6-71B5-44C5-8DB6-E391077EDB54}|VehicleInheritance\\VehicleInheritance.csproj|solutionrelative:vehicleinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D10A6-71B5-44C5-8DB6-E391077EDB54}|VehicleInheritance\\VehicleInheritance.csproj|c:\\users\\ravan\\source\\repos\\vehicleinheritance\\vehicleinheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D10A6-71B5-44C5-8DB6-E391077EDB54}|VehicleInheritance\\VehicleInheritance.csproj|solutionrelative:vehicleinheritance\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49D10A6-71B5-44C5-8DB6-E391077EDB54}|VehicleInheritance\\VehicleInheritance.csproj|c:\\users\\ravan\\source\\repos\\vehicleinheritance\\vehicleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49D10A6-71B5-44C5-8DB6-E391077EDB54}|VehicleInheritance\\VehicleInheritance.csproj|solutionrelative:vehicleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\VehicleInheritance\\Car.cs",
+              "RelativeDocumentMoniker": "VehicleInheritance\\Car.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\VehicleInheritance\\Car.cs*",
+              "RelativeToolTip": "VehicleInheritance\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:49:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\VehicleInheritance\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleInheritance\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\VehicleInheritance\\Vehicle.cs*",
+              "RelativeToolTip": "VehicleInheritance\\Vehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:49:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\VehicleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\VehicleInheritance\\VehicleInheritance\\Program.cs*",
+              "RelativeToolTip": "VehicleInheritance\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:48:18.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

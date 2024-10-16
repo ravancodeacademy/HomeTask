@@ -1,0 +1,14 @@
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.exe
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.deps.json
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.runtimeconfig.json
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.dll
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.pdb
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.AssemblyInfoInputs.cache
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.AssemblyInfo.cs
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.dll
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\refint\VehicleInheritance.dll
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.pdb
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.genruntimeconfig.cache
+C:\Users\ravan\source\repos\VehicleInheritance\VehicleInheritance\obj\Debug\net8.0\ref\VehicleInheritance.dll

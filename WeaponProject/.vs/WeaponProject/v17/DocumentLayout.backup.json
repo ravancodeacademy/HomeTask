@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8B7E67-CF21-438F-B5DF-FB25B6711857}|WeaponProject\\WeaponProject.csproj|c:\\users\\ravan\\source\\repos\\weaponproject\\weaponproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8B7E67-CF21-438F-B5DF-FB25B6711857}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8B7E67-CF21-438F-B5DF-FB25B6711857}|WeaponProject\\WeaponProject.csproj|c:\\users\\ravan\\source\\repos\\weaponproject\\weaponproject\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8B7E67-CF21-438F-B5DF-FB25B6711857}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8B7E67-CF21-438F-B5DF-FB25B6711857}|WeaponProject\\WeaponProject.csproj|c:\\users\\ravan\\source\\repos\\weaponproject\\weaponproject\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8B7E67-CF21-438F-B5DF-FB25B6711857}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\WeaponProject\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "WeaponProject\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\WeaponProject\\Models\\Enums.cs",
+              "RelativeToolTip": "WeaponProject\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:50:05.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\WeaponProject\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponProject\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\WeaponProject\\Models\\Weapon.cs",
+              "RelativeToolTip": "WeaponProject\\Models\\Weapon.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA+wC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:47:13.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\WeaponProject\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ravan\\source\\repos\\WeaponProject\\WeaponProject\\Program.cs",
+              "RelativeToolTip": "WeaponProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAywA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:45:25.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
